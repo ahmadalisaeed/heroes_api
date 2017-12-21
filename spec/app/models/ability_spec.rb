@@ -1,0 +1,3 @@
+describe Ability do
+
+end
